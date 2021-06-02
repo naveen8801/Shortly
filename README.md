@@ -1,4 +1,4 @@
-# VoteMe-webapp
+# Shortly
 
 [![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/) [![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://shortly-8801.netlify.app/) 
 
