@@ -68,13 +68,13 @@ function NavBar() {
       <Navbar>
         <ItemsflexBox>
           <BrandTitle>Shortly</BrandTitle>
-          <NavItems>Features</NavItems>
+          {/* <NavItems>Features</NavItems>
           <NavItems>Pricing</NavItems>
-          <NavItems>Resources</NavItems>
+          <NavItems>Resources</NavItems> */}
         </ItemsflexBox>
         <ButtonsBox>
           <NavItems>Login</NavItems>
-          <Button text="Sign Up"/>
+          <Button text="Sign Up" />
         </ButtonsBox>
       </Navbar>
     </NavbarWrapper>
