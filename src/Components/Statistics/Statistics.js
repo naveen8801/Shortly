@@ -61,7 +61,7 @@ const CardWrapper = styled.section`
 function Statistics() {
   return (
     <Wrapper>
-      <LinkShortner />
+      {/* <LinkShortner /> */}
       <MainContent>
         <Heading>Advanced Statistics</Heading>
         <Subtext>
